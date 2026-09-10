@@ -1,0 +1,17 @@
+{
+  "name": "genpark-tdigest-streaming-quantile-sketch-skill",
+  "version": "1.0.0",
+  "description": "t-Digest online streaming quantile estimation algorithm clustering centroid clusters for high-precision P99 and P99.9 latency SLAs.",
+  "main": "client.py",
+  "mcp_server": "mcp_server.py",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "tdigest",
+    "streaming-quantiles",
+    "quantile-sketch",
+    "latency-monitoring",
+    "sla"
+  ],
+  "dependencies": []
+}
